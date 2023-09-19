@@ -1,2 +1,2 @@
-# Curso de Desarrollo de Aplicaciones Web Avanzado
+# Curso de Desarrollo de Aplicaciones Web Avanzado 🪐
 TECSUP
