@@ -1,0 +1,21 @@
+{
+  "name": "semana07-dwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Mario Santisteban",
+    "email": "mario.santisteban@tecsup.edu.pe"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest":{
+    "testEnvironment":"node"
+  }
+}
