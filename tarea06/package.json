@@ -1,0 +1,14 @@
+{
+  "name": "tecsup-2023-tarea-santisteban",
+  "version": "1.0.0",
+  "description": "tarea06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario SA",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
+}
